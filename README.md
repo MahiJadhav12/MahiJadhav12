@@ -47,7 +47,6 @@
 ## 📫 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/maheshvar-jadhav/
 - 💻 GitHub: https://github.com/MahiJadhav12/ 
-- 🌐 Portfolio: http://ayushkamble.netlify.app/  
 - 📧 Email: mahijadhav1232@gmail.com  
 
 ---
